@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 
 float getMark(int number)
@@ -22,6 +23,7 @@ int main()
   float mark3;
 
   mark1 = getMark(1);
+
   mark2 = getMark(2);
   mark3 = getMark(3);
 
