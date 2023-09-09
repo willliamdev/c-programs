@@ -1,12 +1,6 @@
 #include <stdio.h>
 
-float numberSpliter(int number, int digit)
-    // {
-
-    //   return number;
-    // }
-
-    int main()
+int main()
 {
   int i;
   float number;
