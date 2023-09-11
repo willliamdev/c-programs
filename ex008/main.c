@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+void main()
 {
 
   float wage;
@@ -21,5 +21,4 @@ int main()
 
   // remove "%" when runnig at
   printf("\n");
-  return 0;
 };

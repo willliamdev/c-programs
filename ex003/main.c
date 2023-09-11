@@ -1,19 +1,20 @@
 
 #include <stdio.h>
 
+// learning to use functions
 float getMark(int number)
 {
   float mark;
   printf("Insira a nota %d: ", number);
   scanf("%f", &mark);
+
   while (mark > 10 || mark < 0)
   {
     printf("As notas devem ser de 0 à 10");
     printf("\nInsira novamente a nota %d: ", number);
     scanf("%f", &mark);
   }
-
-  return (mark);
+  return mark;
 };
 
 int main()
@@ -23,7 +24,6 @@ int main()
   float mark3;
 
   mark1 = getMark(1);
-
   mark2 = getMark(2);
   mark3 = getMark(3);
 
