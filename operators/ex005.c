@@ -5,16 +5,19 @@ int main()
 {
   int age;
   char not_turn;
-  printf("How old are you?");
+  printf("How old are you? ");
   scanf("%d", &age);
-  printf("Will you turn %d this year? [y/n]", age + 1);
-  scanf("%c", &not_turn);
+  printf("Will you turn %d this year? [y/n]: ", age + 1);
 
-  // TODO
-  // debug say thi is a comparison between pointer and integer
+  /*
+   blank in the format string tells scanf to skip leading whitespace, and the first
+   non-whitespace character will be read with the %c conversion specifier.
+  */
+  scanf(" %c", &not_turn);
+
   if ((not_turn == "Y") || (not_turn == "y"))
   {
-    printf("You was born on %d\n", (2024 - age + 1));
+    printf("oh, You was born on %d\n", (2024 - age + 1));
   }
   else
   {
