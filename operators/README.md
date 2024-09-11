@@ -23,6 +23,7 @@
 > [`solução`](ex008.c)
 
 9) Leia um ângulo em graus e apresente-o convertido em radianos. A fórmula de conversão é R = G * π/180, sendo G o ângulo em graus e R em radianos e π = 3.141592.
+> [`solução`](ex009.c)
 
 10) A importância de R$ 780.000,00 será dividida entre três ganhadores de um concurso, sendo que:
 - O primeiro ganhador receberá 46% do total.
