@@ -33,7 +33,7 @@ Calcule e imprima a quantia recebida por cada um dos ganhadores.
 > [`solução`](ex010.c)
 
 **11)** Leia o valor do raio de um círculo. Calcule e imprima a área do círculo correspondente. A área do círculo é `A = π* raio2`, sendo **π = 3.141592**.
-<!-- > [`solução`](ex010.c) -->
+> [`solução`](ex011.c)
 
 **12)** Leia a altura e o raio de um cilindro circular e imprima o volume desse cilindro. O volume de
 um cilindro circular é calculado por meio da seguinte fórmula:
