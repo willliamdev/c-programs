@@ -30,12 +30,31 @@ gcc ex005.c -lm -o ex005.out && ./ex005.out
 
 **7)** Uma empresa vende o mesmo produto para quatro diferentes estados. Cada estado possui uma taxa diferente de imposto sobre o produto. Faça um programa em que o usuário entre com o valor e o estado de destino do produto e o programa retorne o preço final do produto acrescido do imposto do estado em que ele será vendido. Se o estado digitado não for válido, mostrará uma mensagem de erro.
 <!-- > [`solução`](ex00.c) -->
+<div align="center">
+
+  ![image](images/img7.png)
+
+</div>
 
 **8)** Escreva um programa que, dada a idade de um nadador, classifique-o em uma das seguintes categorias:
 <!-- > [`solução`](ex00.c) -->
+<div align="center">
 
-**9)** Faça um programa que leia a altura e o peso de uma pessoa. De acordo com a tabela a seguir, verifique e mostre qual a classificação dessa pessoa.10) Faça um programa que leia três números inteiros positivos e efetue o cálculo de uma das seguintes médias de acordo com um valor numérico digitado pelo usuário e mostrado na tabela a seguir:
+  ![image](images/img8.png)
+
+</div>
+
+**9)** Faça um programa que leia a altura e o peso de uma pessoa. De acordo com a tabela a seguir, verifique e mostre qual a classificação dessa pessoa.
 <!-- > [`solução`](ex00.c) -->
+
+
+**10)** Faça um programa que leia três números inteiros positivos e efetue o cálculo de uma das seguintes médias de acordo com um valor numérico digitado pelo usuário e mostrado na tabela a seguir:
+<!-- > [`solução`](ex00.c) -->
+<div align="center">
+
+  ![image](images/img10.png)
+
+</div>
 
 **11)** Faça um programa que informe o mês de acordo com o número digitado pelo usuário. Exemplo:
 > Entrada = 4.
@@ -57,3 +76,8 @@ gcc ex005.c -lm -o ex005.out && ./ex005.out
 - Se Δ > 0, existem duas raízes reais.
 Imprima as raízes.
 <!-- > [`solução`](ex00.c) -->
+<div align="center">
+
+  ![Volume = pi * (r*r) * altura](images/img15.png)
+
+</div>
