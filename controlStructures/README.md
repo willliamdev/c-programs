@@ -18,7 +18,10 @@
 mostre:
 - O número digitado ao quadrado.
 - A raiz quadrada do número digitado.
-<!-- > [`solução`](ex00.c) -->
+> [`solução`](ex005.c) pra compilar e executar no linux é necessário add o parametro **-lm** para o compilador linkar a bliblioteca **math**. Ex.:
+```bash
+gcc ex005.c -lm -o ex005.out && ./ex005.out
+```
 
 **6)** Faça um programa que receba a altura e o sexo de uma pessoa e calcule e mostre seu peso ideal, utilizando as seguintes fórmulas (em que “h” corresponde à altura):
 - Homens: (72,7 * h) – 58
