@@ -4,10 +4,10 @@
 > [`solução`](ex001.c)
 
 **2)** Faça um programa que leia dois números e mostre o maior deles. Se, por acaso, os dois números forem iguais, imprima a mensagem “Números iguais”.
-<!-- > [`solução`](ex00.c) -->
+> [`solução(já feita na anterior)`](ex001.c)
 
 **3)** Faça um programa que leia um número inteiro e verifique se esse número é par ou ímpar.
-<!-- > [`solução`](ex00.c) -->
+> [`solução`](ex003.c)
 
 **4)** Faça um programa que leia o salário de um trabalhador e o valor da prestação de um empréstimo. Se a prestação:
 - For maior que 20% do salário, imprima: “Empréstimo não concedido.”
