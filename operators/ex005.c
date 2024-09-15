@@ -1,20 +1,23 @@
 #include <stdio.h>
-#include <locale.h>
 
+// Calcule o ano de nascimento de uma pessoa a partir de sua idade e do ano atual.
 int main()
 {
-  int age, not_turn;
-
+  int age;
+  char not_turn;
   printf("How old are you? ");
   scanf("%d", &age);
+  printf("Will you turn %d this year? [y/n]: ", age + 1);
 
-  printf("Will you turn %d this year?", age + 1);
-  printf("\n 0 - NO\n 1 - YES\nAwnser[0/1]: ");
-  scanf("%d", &not_turn);
+  /*
+   blank in the format string tells scanf to skip leading whitespace, and the first
+   non-whitespace character will be read with the %c conversion specifier.
+  */
+  scanf(" %c", &not_turn);
 
-  if (not_turn)
+  if ((not_turn == "Y") || (not_turn == "y"))
   {
-    printf("\nYou was born on %d\n", (2024 - (age + 1)));
+    printf("oh, You was born on %d\n", (2024 - age + 1));
   }
   else
   {
