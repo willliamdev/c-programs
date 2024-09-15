@@ -42,7 +42,7 @@ Calcule e imprima a quantia recebida por cada um dos ganhadores.
 
 </div>
 
-<!-- > [`solução`](ex010.c) -->
+> [`solução`](ex012.c)
 
 **13)** Sejam a e b os catetos de um triângulo cuja hipotenusa h é obtida pela equação: Faça um programa que leia os valores de a e b, e calcule o valor da hipotenusa através da fórmula dada. Imprima o resultado.
 <div align="center">
