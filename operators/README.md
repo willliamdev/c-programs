@@ -51,7 +51,7 @@ Calcule e imprima a quantia recebida por cada um dos ganhadores.
   
 </div>
 
-<!-- > [`solução`](ex010.c) -->
+> [`solução`](ex013.c)
 
 **14)** Faça um programa que converta uma letra maiúscula em letra minúscula. Use a tabela ASCII para isso.
 <!-- > [`solução`](ex010.c) -->
