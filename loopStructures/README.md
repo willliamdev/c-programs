@@ -44,6 +44,11 @@
 <!-- > [`solução`](ex00.c) -->
 
 **16)** Em matemática, o número harmônico designado por Hn define-se como o enésimo termo da série harmônica. Ou seja: Apresente um programa que calcule o valor de qualquer Hn.
+<div align="center">
+
+![alt text](images/img16.png)
+
+</div>
 <!-- > [`solução`](ex00.c) -->
 
 **17)** Escreva um programa que leia um número inteiro positivo N e em seguida imprima N linhas do chamado triângulo de Floyd:
@@ -62,8 +67,18 @@
 
 **19)** Faça um programa que calcule e escreva o valor de S:
 <!-- > [`solução`](ex00.c) -->
+<div align="center">
+
+  ![alt text](images/img19.png)
+
+</div>
 
 **20)** Faça um programa que leia um valor inteiro e positivo N, calcule o mostre o valor E, conforme a fórmula a seguir:
 <!-- > [`solução`](ex00.c) -->
+<div align="center">
+
+  ![alt text](images/img20.png)
+
+</div>
 
 **21)** Escreva um programa que leia certa quantidade de números, imprima o maior deles e quantas vezes o maior número foi lido. A quantidade de números a serem lidos deve ser fornecida pelo usuário.
