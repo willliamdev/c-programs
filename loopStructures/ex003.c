@@ -15,7 +15,7 @@ int main()
       printf("%d\n", i);
     }
   }
-  printf("\n\nEstes foram os %d° primeiros números pares\n", i);
+  printf("\n\nEstes foram os %d° primeiros números ímpares\n", i);
 
   return 0;
 }
