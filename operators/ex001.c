@@ -1,6 +1,6 @@
 #include <stdio.h>
+#include <locale.h>
 
-/*  Faça um programa que leia um número inteiro e retorne seu antecessor e seu sucessor. */
 int main()
 {
   int num;

@@ -1,6 +1,6 @@
 #include <stdio.h>
+#include <locale.h>
 
-// Faça um programa que leia três valores inteiros e mostre sua soma.
 int main()
 {
   int i, num, total = 0;
