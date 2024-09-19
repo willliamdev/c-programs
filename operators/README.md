@@ -57,7 +57,7 @@ Calcule e imprima a quantia recebida por cada um dos ganhadores.
 > [`solução`](ex014.c)
 
 **15)** Faça um programa para ler um número inteiro positivo de três dígitos. Em seguida, calcule e mostre o número formado pelos dígitos invertidos do número lido. Exemplo: Número lido = 123 Número gerado = 321
-<!-- > [`solução`](ex010.c) -->
+> [`solução`](ex015.c)
 
 **16)** Escreva um programa que leia um número inteiro e mostre a multiplicação e a divisão desse número por dois (utilize os operadores de deslocamento de bits).
 <!-- > [`solução`](ex010.c) -->
