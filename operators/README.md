@@ -63,7 +63,7 @@ Calcule e imprima a quantia recebida por cada um dos ganhadores.
 > [`solução`](ex016.c)
 
 **17)** Escreva um programa que leia um número inteiro e mostre o seu complemento bit a bit.
-<!-- > [`solução`](ex010.c) -->
+> [`solução`](ex017.c)
 
 **18)** Elabore um programa que leia dois números inteiros e exiba o deslocamento, à esquerda e à direita, do primeiro número pelo segundo.
 <!-- > [`solução`](ex010.c) -->
