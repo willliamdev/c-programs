@@ -66,7 +66,7 @@ Calcule e imprima a quantia recebida por cada um dos ganhadores.
 > [`solução`](ex017.c)
 
 **18)** Elabore um programa que leia dois números inteiros e exiba o deslocamento, à esquerda e à direita, do primeiro número pelo segundo.
-<!-- > [`solução`](ex010.c) -->
+> [`solução`](ex018.c)
 
 **19)** Elabore um programa que leia dois números inteiros e exiba o resultado das operações de “ou exclusivo”, “ou bit a bit” e “e bit a bit” entre eles.
 <!-- > [`solução`](ex010.c) -->
