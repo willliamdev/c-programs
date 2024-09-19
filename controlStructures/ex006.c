@@ -30,6 +30,3 @@ int main()
 
   return 0;
 }
-
-// Homens: (72,7 * h) – 58
-// Mulheres: (62,1 * h) – 44,7

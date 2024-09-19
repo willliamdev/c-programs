@@ -2,3 +2,5 @@
 
 Lista de exercícios:
 - [OPERADORES](operators/README.md)
+- [ESTRUDURA DE DECISÃO](controlStructures/README.md)
+- [ESTRUDURA DE REPETIÇÃO](loopStructures/README.md)

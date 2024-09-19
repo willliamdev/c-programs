@@ -19,14 +19,14 @@ mostre:
 - O número digitado ao quadrado.
 - A raiz quadrada do número digitado.
 > [`solução`](ex005.c) pra compilar e executar no linux é necessário add o parametro **-lm** para o compilador linkar a bliblioteca **math**. Ex.:
-```bash
-gcc ex005.c -lm -o ex005.out && ./ex005.out
-```
+> ```bash
+>gcc ex005.c -lm -o ex005.out && ./ex005.out
+> ```
 
 **6)** Faça um programa que receba a altura e o sexo de uma pessoa e calcule e mostre seu peso ideal, utilizando as seguintes fórmulas (em que “h” corresponde à altura):
 - Homens: (72,7 * h) – 58
 - Mulheres: (62,1 * h) – 44,7
-<!-- > [`solução`](ex00.c) -->
+> [`solução`](ex006.c)
 
 **7)** Uma empresa vende o mesmo produto para quatro diferentes estados. Cada estado possui uma taxa diferente de imposto sobre o produto. Faça um programa em que o usuário entre com o valor e o estado de destino do produto e o programa retorne o preço final do produto acrescido do imposto do estado em que ele será vendido. Se o estado digitado não for válido, mostrará uma mensagem de erro.
 <!-- > [`solução`](ex00.c) -->
@@ -49,12 +49,14 @@ gcc ex005.c -lm -o ex005.out && ./ex005.out
 
 
 **10)** Faça um programa que leia três números inteiros positivos e efetue o cálculo de uma das seguintes médias de acordo com um valor numérico digitado pelo usuário e mostrado na tabela a seguir:
-<!-- > [`solução`](ex00.c) -->
 <div align="center">
 
   ![image](images/img10.png)
 
 </div>
+
+> [`solução`](ex010.c)
+
 
 **11)** Faça um programa que informe o mês de acordo com o número digitado pelo usuário. Exemplo:
 > Entrada = 4.

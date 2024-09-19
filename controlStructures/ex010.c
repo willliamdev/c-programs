@@ -24,6 +24,7 @@ int main()
 
       printf("\nEscolha uma das opções acima: ");
       scanf("%d", &option);
+      double harmonica;
 
       switch (option)
       {
@@ -35,7 +36,6 @@ int main()
         printf("(%d + 2 x %d + 3 x %d ) / 6 = %d\n", x, y, z, ((x + 2 * y + 3 * z) / 6));
         break;
       case 3: // harmonica
-        float harmonica;
         harmonica = 1 / ((1 / x) + (1 / y) + (1 / z));
         printf("%.2f\n", harmonica);
         break;
