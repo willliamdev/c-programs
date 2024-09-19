@@ -54,7 +54,7 @@ Calcule e imprima a quantia recebida por cada um dos ganhadores.
 > [`solução`](ex013.c)
 
 **14)** Faça um programa que converta uma letra maiúscula em letra minúscula. Use a tabela ASCII para isso.
-<!-- > [`solução`](ex010.c) -->
+> [`solução`](ex014.c)
 
 **15)** Faça um programa para ler um número inteiro positivo de três dígitos. Em seguida, calcule e mostre o número formado pelos dígitos invertidos do número lido. Exemplo: Número lido = 123 Número gerado = 321
 <!-- > [`solução`](ex010.c) -->
