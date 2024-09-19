@@ -60,7 +60,7 @@ Calcule e imprima a quantia recebida por cada um dos ganhadores.
 > [`solução`](ex015.c)
 
 **16)** Escreva um programa que leia um número inteiro e mostre a multiplicação e a divisão desse número por dois (utilize os operadores de deslocamento de bits).
-<!-- > [`solução`](ex010.c) -->
+> [`solução`](ex016.c)
 
 **17)** Escreva um programa que leia um número inteiro e mostre o seu complemento bit a bit.
 <!-- > [`solução`](ex010.c) -->
