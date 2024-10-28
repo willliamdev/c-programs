@@ -8,6 +8,7 @@
       "args": [
         "-g",
         "${file}",
+        "${workspaceFolder}/global/myfunctions.c",
         "-o",
         "${fileDirname}/build/${fileBasenameNoExtension}.bin"
       ],
