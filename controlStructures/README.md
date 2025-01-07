@@ -74,19 +74,20 @@ mostre:
 > [`solução`](ex013.c)
 
 **14)** Faça um programa para verificar se determinado número inteiro lido é divisível por 3 ou 5, mas não simultaneamente pelos dois.
-<!-- > [`solução`](ex00.c) -->
+> [`solução`](ex014.c)
 
 **15)** Faça um programa que leia os coeficientes de uma equação do segundo grau. Em seguida, calcule e mostre as raízes dessa equação, lembrando que as raízes são calculadas como: em que Δ = b2 – 4 * a * c e ax2 + bx + c = 0 representa uma equação do segundo grau. A variável a tem de ser diferente de zero. Caso seja igual, imprima a mensagem “Não é equação de segundo grau”. Do contrário, imprima:
 - Se Δ < 0, não existe real. Imprima a mensagem “Não existe raiz”.
 - Se Δ = 0, existe uma raiz real. Imprima a raiz e a mensagem “Raiz única”.
 - Se Δ > 0, existem duas raízes reais.
 Imprima as raízes.
-<!-- > [`solução`](ex00.c) -->
 <div align="center">
 
-  ![Volume = pi * (r*r) * altura](images/img15.png)
+  ![image](images/img15.png)
 
 </div>
 
+> [`solução`](ex015.c)
 
-[voltar ao Topo :top:](#exercícios-estruturas-de-controle)
+
+[**voltar ao Topo**](#exercícios-estruturas-de-controle) :top:
