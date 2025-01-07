@@ -1,3 +1,5 @@
+# Exercícios: Operadores
+
 **1)** Faça um programa que leia um número inteiro e retorne seu antecessor e seu sucessor.
 > [`solução`](ex001.c)
 
@@ -70,3 +72,6 @@ Calcule e imprima a quantia recebida por cada um dos ganhadores.
 
 **19)** Elabore um programa que leia dois números inteiros e exiba o resultado das operações de “ou exclusivo”, “ou bit a bit” e “e bit a bit” entre eles.
 > [`solução`](ex019.c)
+
+---
+[voltar ao Topo :top:](#exercícios-operadores)
