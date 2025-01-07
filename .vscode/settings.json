@@ -1,8 +1,5 @@
 {
   "files.associations": {
-    "algorithm": "c",
-    "locale.h": "c",
-    "stdio.h": "c",
-    "myownstdio.h": "c"
+    "algorithm": "c"
   }
 }

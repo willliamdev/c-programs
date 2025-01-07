@@ -1,4 +1,4 @@
-# Lista de Exercícios de Estruturas de Controle
+# Exercícios: Estruturas de Controle
 
 **1)** Faça um programa que leia dois números e mostre qual deles é o maior.
 > [`solução`](ex001.c)
@@ -29,20 +29,21 @@ mostre:
 > [`solução`](ex006.c)
 
 **7)** Uma empresa vende o mesmo produto para quatro diferentes estados. Cada estado possui uma taxa diferente de imposto sobre o produto. Faça um programa em que o usuário entre com o valor e o estado de destino do produto e o programa retorne o preço final do produto acrescido do imposto do estado em que ele será vendido. Se o estado digitado não for válido, mostrará uma mensagem de erro.
-<!-- > [`solução`](ex00.c) -->
 <div align="center">
 
   ![image](images/img7.png)
+> [`solução`](ex007.c)
 
 </div>
 
 **8)** Escreva um programa que, dada a idade de um nadador, classifique-o em uma das seguintes categorias:
-<!-- > [`solução`](ex00.c) -->
 <div align="center">
 
   ![image](images/img8.png)
 
 </div>
+
+> [`solução`](ex008.c)
 
 **9)** Faça um programa que leia a altura e o peso de uma pessoa. De acordo com a tabela a seguir, verifique e mostre qual a classificação dessa pessoa.
 <!-- > [`solução`](ex00.c) -->
@@ -59,15 +60,18 @@ mostre:
 
 
 **11)** Faça um programa que informe o mês de acordo com o número digitado pelo usuário. Exemplo:
-> Entrada = 4.
-> Saída = Abril.
-<!-- > [`solução`](ex00.c) -->
+``` C
+// Entrada = 4.
+// Saída = Abril.
+```
+
+> [`solução`](ex011.c)
 
 **12)** Usando o comando switch, escreva um programa que leia um inteiro entre 1 e 7 e imprima o dia da semana correspondente a esse número. Isto é, domingo, se 1, segunda-feira, se 2, e assim por diante.
-<!-- > [`solução`](ex00.c) -->
+> [`solução`](ex012.c)
 
 **13)** Faça um programa que mostre ao usuário um menu com quatro opções de operações matemáticas (as operações básicas, por exemplo). O usuário escolhe uma das opções, e o seu programa pede dois valores numéricos e realiza a operação, mostrando o resultado.
-<!-- > [`solução`](ex00.c) -->
+> [`solução`](ex013.c)
 
 **14)** Faça um programa para verificar se determinado número inteiro lido é divisível por 3 ou 5, mas não simultaneamente pelos dois.
 <!-- > [`solução`](ex00.c) -->
@@ -83,3 +87,6 @@ Imprima as raízes.
   ![Volume = pi * (r*r) * altura](images/img15.png)
 
 </div>
+
+
+[voltar ao Topo :top:](#exercícios-estruturas-de-controle)
