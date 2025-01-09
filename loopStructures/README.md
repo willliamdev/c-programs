@@ -29,7 +29,7 @@
 > [`solução`](ex009.c)
 
 **10)** Faça um programa que leia 10 inteiros positivos, ignorando não positivos, e imprima sua média.
-<!-- > [`solução`](ex00.c) -->
+> [`solução`](ex010.c)
 
 **11)** Faça um algoritmo que leia um número positivo e imprima seus divisores. Exemplo: `Os divisores do número 66 são: 1, 2, 3, 6, 11, 22, 33 e 66.`
 <!-- > [`solução`](ex00.c) -->
