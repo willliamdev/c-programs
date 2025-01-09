@@ -17,7 +17,7 @@
 > [`solução`](ex005.c)
 
 **6)** Faça um programa que mostre uma contagem regressiva na tela, iniciando em 10 e terminando em 0. Mostre uma mensagem “FIM!” após a contagem.
-<!-- > [`solução`](ex00.c) -->
+> [`solução`](ex006.c)
 
 **7)** Elabore um programa que peça ao usuário para digitar 10 valores. Some esses valores e apresente o resultado na tela.
 <!-- > [`solução`](ex00.c) -->
