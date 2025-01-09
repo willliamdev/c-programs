@@ -14,7 +14,7 @@
 > [`solução`](ex004.c)
 
 **5)** Faça um programa que calcule e mostre a soma dos 50 primeiros números pares.
-<!-- > [`solução`](ex00.c) -->
+> [`solução`](ex005.c)
 
 **6)** Faça um programa que mostre uma contagem regressiva na tela, iniciando em 10 e terminando em 0. Mostre uma mensagem “FIM!” após a contagem.
 <!-- > [`solução`](ex00.c) -->
