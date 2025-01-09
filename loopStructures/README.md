@@ -31,11 +31,13 @@
 **10)** Faça um programa que leia 10 inteiros positivos, ignorando não positivos, e imprima sua média.
 > [`solução`](ex010.c)
 
-**11)** Faça um algoritmo que leia um número positivo e imprima seus divisores. Exemplo: `Os divisores do número 66 são: 1, 2, 3, 6, 11, 22, 33 e 66.`
-<!-- > [`solução`](ex00.c) -->
+**11)** Faça um algoritmo que leia um número positivo e imprima seus divisores. 
+Exemplo: `Os divisores do número 66 são: 1, 2, 3, 6, 11, 22, 33 e 66.`
+> [`solução`](ex011.c)
 
-**12)** Escreva um programa que leia um número inteiro e calcule a soma de todos os divisores desse número, com exceção dele próprio. Exemplo: `A soma dos divisores do número 66 é 1 + 2 + 3 + 6 + 11 + 22 + 33 = 78.`
-<!-- > [`solução`](ex00.c) -->
+**12)** Escreva um programa que leia um número inteiro e calcule a soma de todos os divisores desse número, com exceção dele próprio. 
+Exemplo: `A soma dos divisores do número 66 é 1 + 2 + 3 + 6 + 11 + 22 + 33 = 78.`
+> [`solução`](ex012.c)
 
 **13)** Faça um programa que exiba a soma de todos os números naturais abaixo de 1.000 que são múltiplos de 3 ou 5.
 <!-- > [`solução`](ex00.c) -->
