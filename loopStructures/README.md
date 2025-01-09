@@ -11,7 +11,7 @@
 > [`solução`](ex003.c)
 
 **4)** Faça um programa que determine e mostre os cinco primeiros múltiplos de 3 considerando números maiores que 0.
-<!-- > [`solução`](ex00.c) -->
+> [`solução`](ex004.c)
 
 **5)** Faça um programa que calcule e mostre a soma dos 50 primeiros números pares.
 <!-- > [`solução`](ex00.c) -->
