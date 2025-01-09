@@ -20,7 +20,7 @@
 > [`solução`](ex006.c)
 
 **7)** Elabore um programa que peça ao usuário para digitar 10 valores. Some esses valores e apresente o resultado na tela.
-<!-- > [`solução`](ex00.c) -->
+> [`solução`](ex007.c)
 
 **8)** Faça um programa que leia 10 inteiros e imprima sua média.
 <!-- > [`solução`](ex00.c) -->
