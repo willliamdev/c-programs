@@ -6,11 +6,11 @@ int main()
 
   for (int i = 0; i < 10; i++)
   {
-    printf("[0%d/10]Insira um número: ", i + 1);
+    printf("[%d/10] Insira um número: ", i + 1);
     scanf("%lf", &num);
     summation += num;
   }
 
-  printf("\nSomatório dos números digitados: %.4lf\n", summation);
+  printf("\nMédia dos números digitados: %.4lf\n", summation / 10);
   return 0;
 }

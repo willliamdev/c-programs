@@ -23,7 +23,7 @@
 > [`solução`](ex007.c)
 
 **8)** Faça um programa que leia 10 inteiros e imprima sua média.
-<!-- > [`solução`](ex00.c) -->
+> [`solução`](ex008.c)
 
 **9)** Escreva um programa que leia 10 números e escreva o menor valor lido e o maior valor lido.
 <!-- > [`solução`](ex00.c) -->
