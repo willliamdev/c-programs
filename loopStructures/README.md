@@ -31,7 +31,7 @@
 **10)** Faça um programa que leia 10 inteiros positivos, ignorando não positivos, e imprima sua média.
 > [`solução`](ex010.c)
 
-**11)** Faça um algoritmo que leia um número positivo e imprima seus divisores. 
+**11)** Faça um algoritmo que leia um número positivo e imprima seus divisores.
 Exemplo: `Os divisores do número 66 são: 1, 2, 3, 6, 11, 22, 33 e 66.`
 > [`solução`](ex011.c)
 
@@ -40,10 +40,10 @@ Exemplo: `A soma dos divisores do número 66 é 1 + 2 + 3 + 6 + 11 + 22 + 33 = 7
 > [`solução`](ex012.c)
 
 **13)** Faça um programa que exiba a soma de todos os números naturais abaixo de 1.000 que são múltiplos de 3 ou 5.
-<!-- > [`solução`](ex00.c) -->
+> [`solução`](ex013.c)
 
 **14)** Escreva um programa que leia um número inteiro, maior ou igual a zero, do usuário. Imprima o enésimo termo da sequência de Fibonacci. Essa sequência começa no termo de ordem zero, e, a partir do segundo termo, seu valor é dado pela soma dos dois termos anteriores. Alguns termos dessa sequência são: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34.
-<!-- > [`solução`](ex00.c) -->
+> [`solução`](ex014.c)
 
 **15)** Elabore um programa que faça a leitura de vários números inteiros até que se digite um número negativo. O programa tem de retornar o maior e o menor número lido.
 <!-- > [`solução`](ex00.c) -->
