@@ -46,7 +46,7 @@ Exemplo: `A soma dos divisores do número 66 é 1 + 2 + 3 + 6 + 11 + 22 + 33 = 7
 > [`solução`](ex014.c)
 
 **15)** Elabore um programa que faça a leitura de vários números inteiros até que se digite um número negativo. O programa tem de retornar o maior e o menor número lido.
-<!-- > [`solução`](ex00.c) -->
+> [`solução`](ex015.c)
 
 **16)** Em matemática, o número harmônico designado por Hn define-se como o enésimo termo da série harmônica. Ou seja: Apresente um programa que calcule o valor de qualquer Hn.
 <div align="center">
@@ -54,7 +54,8 @@ Exemplo: `A soma dos divisores do número 66 é 1 + 2 + 3 + 6 + 11 + 22 + 33 = 7
 ![alt text](images/img16.png)
 
 </div>
-<!-- > [`solução`](ex00.c) -->
+
+> [`solução`](ex016.c)
 
 **17)** Escreva um programa que leia um número inteiro positivo N e em seguida imprima N linhas do chamado triângulo de Floyd:
 ```
