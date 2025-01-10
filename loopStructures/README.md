@@ -59,17 +59,17 @@ Exemplo: `A soma dos divisores do número 66 é 1 + 2 + 3 + 6 + 11 + 22 + 33 = 7
 
 **17)** Escreva um programa que leia um número inteiro positivo N e em seguida imprima N linhas do chamado triângulo de Floyd:
 ```
-12
-3
+1
+2 3
 4 5 6
 8 9 10
 11 12 13 14 15
-16 17 18 19 20 21
+16 17 18 19 20 21 ...
 ```
-<!-- > [`solução`](ex00.c) -->
+> [`solução`](ex017.c)
 
 **18)** Faça um programa que receba um número inteiro maior do que 1 e verifique se o número fornecido é primo ou não.
-<!-- > [`solução`](ex00.c) -->
+> [`solução`](ex018.c)
 
 **19)** Faça um programa que calcule e escreva o valor de S:
 <!-- > [`solução`](ex00.c) -->
