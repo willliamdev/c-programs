@@ -13,6 +13,8 @@ int main()
     // ignorando números não positivos
     if (num <= 0)
     {
+      printf("\nOps! somente os naturais não nulos!\n\n");
+      i--;
       continue;
     }
     counter += 1;
