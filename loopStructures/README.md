@@ -72,12 +72,13 @@ Exemplo: `A soma dos divisores do número 66 é 1 + 2 + 3 + 6 + 11 + 22 + 33 = 7
 > [`solução`](ex018.c)
 
 **19)** Faça um programa que calcule e escreva o valor de S:
-<!-- > [`solução`](ex00.c) -->
 <div align="center">
 
   ![alt text](images/img19.png)
 
 </div>
+
+> [`solução`](ex019.c)
 
 **20)** Faça um programa que leia um valor inteiro e positivo N, calcule o mostre o valor E, conforme a fórmula a seguir:
 <!-- > [`solução`](ex00.c) -->
