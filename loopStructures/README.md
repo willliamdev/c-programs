@@ -81,14 +81,18 @@ Exemplo: `A soma dos divisores do número 66 é 1 + 2 + 3 + 6 + 11 + 22 + 33 = 7
 > [`solução`](ex019.c)
 
 **20)** Faça um programa que leia um valor inteiro e positivo N, calcule o mostre o valor E, conforme a fórmula a seguir:
-<!-- > [`solução`](ex00.c) -->
 <div align="center">
 
   ![alt text](images/img20.png)
 
 </div>
 
+> [`solução`](e020.c)
+
+
 **21)** Escreva um programa que leia certa quantidade de números, imprima o maior deles e quantas vezes o maior número foi lido. A quantidade de números a serem lidos deve ser fornecida pelo usuário.
+> [`solução`](e021.c)
+
 
 ---
 [voltar ao Topo :top:](#exercícios-estruturas-de-repetição)
