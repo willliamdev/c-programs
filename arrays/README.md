@@ -6,11 +6,11 @@
 
 **2)** Crie um programa que leia do teclado seis valores inteiros e em seguida mostre na tela os valores lidos na ordem inversa.
 
-<!-- >[`solução`](ex00.c) -->
+>[`solução`](ex002.c)
 
 **3)** Faça um programa que leia cinco valores e os armazene em um vetor. Em seguida, mostre todos os valores lidos com a média dos valores.
 
-<!-- >[`solução`](ex00.c) -->
+>[`solução`](ex003.c)
 
 **4)** Faça um programa que possua um array de nome A que armazene seis números inteiros. O programa deve executar os seguintes passos:
 - Atribua os seguintes valores a esse array: 1, 0, 5, –2, –5, 7.
