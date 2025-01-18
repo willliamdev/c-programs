@@ -22,7 +22,7 @@
 
 **5)** Faça um programa que leia um vetor de oito posições. Em seguida, leia também dois valores *X* e *Y* quaisquer correspondentes a duas posições no vetor. Seu programa deverá exibir a soma dos valores encontrados nas respectivas posições *X* e *Y*.
 
-<!-- >[`solução`](ex00.c) -->
+>[`solução`](ex005.c)
 
 **6)** Escreva um programa que leia do teclado um vetor de 10 posições. Escreva na tela quantos valores pares foram armazenados nesse vetor.
 
