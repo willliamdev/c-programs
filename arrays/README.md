@@ -18,7 +18,7 @@
 - Modifique o array na posição `4`, atribuindo a essa posição o valor 100.
 - Mostre na tela cada valor do array A, um em cada linha.
 
-<!-- >[`solução`](ex00.c) -->
+>[`solução`](ex004.c)
 
 **5)** Faça um programa que leia um vetor de oito posições. Em seguida, leia também dois valores *X* e *Y* quaisquer correspondentes a duas posições no vetor. Seu programa deverá exibir a soma dos valores encontrados nas respectivas posições *X* e *Y*.
 
