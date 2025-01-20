@@ -26,11 +26,11 @@
 
 **6)** Escreva um programa que leia do teclado um vetor de 10 posições. Escreva na tela quantos valores pares foram armazenados nesse vetor.
 
-<!-- >[`solução`](ex00.c) -->
+>[`solução`](ex006.c)
 
 **7)** Faça um programa que receba do usuário um vetor X com 10 posições. Em seguida deverão ser impressos o maior e o menor elemento desse vetor.
 
-<!-- >[`solução`](ex00.c) -->
+>[`solução`](ex007.c) problema [semelhante](../loopStructures/ex009.c)
 
 **8)** Faça um programa que preencha um vetor com 10 números reais. Em seguida, calcule e mostre na tela a quantidade de números negativos e a soma dos números positivos desse vetor.
 

@@ -2,6 +2,7 @@
   "files.associations": {
     "algorithm": "c",
     "format": "c",
-    "stdio.h": "c"
+    "stdio.h": "c",
+    "ratio": "c"
   }
 }
