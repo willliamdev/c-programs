@@ -34,11 +34,11 @@
 
 **8)** Faça um programa que preencha um vetor com 10 números reais. Em seguida, calcule e mostre na tela a quantidade de números negativos e a soma dos números positivos desse vetor.
 
-<!-- >[`solução`](ex00.c) -->
+>[`solução`](ex008.c)
 
 **9)** Faça um programa que receba do usuário dois arrays, A e B, com 10 números inteiros cada. Crie um novo array C calculando C = A – B. Mostre na tela os dados do array C.
 
-<!-- >[`solução`](ex00.c) -->
+>[`solução`](ex009.c)
 
 **10)** Faça um programa que preencha um vetor de tamanho 100 com os 100 primeiros números naturais que não são múltiplos de 7. Ao final, imprima esse vetor na tela.
 
