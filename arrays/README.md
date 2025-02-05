@@ -42,15 +42,15 @@
 
 **10)** Faça um programa que preencha um vetor de tamanho 100 com os 100 primeiros números naturais que não são múltiplos de 7. Ao final, imprima esse vetor na tela.
 
-<!-- >[`solução`](ex00.c) -->
+>[`solução`](ex010.c)
 
 **11)** Leia um conjunto de números reais, armazenando-o em vetor. Em seguida, calcule o quadrado de cada elemento desse vetor, armazenando esse resultado em outro vetor. Os conjuntos têm, no máximo, 20 elementos. Imprima os dois conjuntos de números.
 
-<!-- >[`solução`](ex00.c) -->
+>[`solução`](ex011.c)
 
 **12)** Faça um programa que leia um vetor de 10 posições. Verifique se existem valores iguais e os escreva na tela.
 
-<!-- >[`solução`](ex00.c) -->
+>[`solução`](ex012.c)
 
 **13)** Faça um programa para ler 10 números diferentes a serem armazenados em um vetor. Os números deverão ser armazenados no vetor na ordem em que forem lidos, sendo que, caso o usuário digite um número que já foi digitado, o programa deverá pedir a ele para digitar outro número. Note que cada valor digitado pelo usuário deve ser pesquisado no vetor, verificando se ele existe entre os números que já foram fornecidos. Exiba na tela o vetor final que foi digitado.
 
