@@ -10,7 +10,7 @@ int main()
 
     struct person
     {
-        int name[15];
+        char name[15];
         int id;
         int age;
         float salary;

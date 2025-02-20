@@ -8,7 +8,7 @@ int main()
 
     struct person
     {
-        int name[15];
+        char name[15];
         int id;
         int age;
         float salary;
@@ -53,8 +53,6 @@ int main()
             printf("\nDigite [0] para sair e [1] p/ consulta novamente: ");
             scanf("%d", &clientNotExist);
         }
-
-
 
     } while (clientNotExist);
 
