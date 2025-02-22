@@ -3,6 +3,8 @@
     "algorithm": "c",
     "format": "c",
     "stdio.h": "c",
-    "ratio": "c"
+    "ratio": "c",
+    "text_encoding": "c",
+    "typeinfo": "c"
   }
 }
