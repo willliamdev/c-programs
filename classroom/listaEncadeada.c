@@ -1,17 +1,24 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-struct node
+/*
+ * Pra usar typedef adequadamente, tive que ler todas as respostas nessa threat:
+ * https://stackoverflow.com/questions/588623/self-referential-struct-definition
+ * e a documentação em: https://devdocs.io/c/language/typedef
+ * e ainda não sei se é a melhor maneira mas na minha máquina funciona haha
+ */
+
+typedef struct node
 {
     int info;
     struct node *nextNode;
-};
+} node; // Alias
 
-struct node *insertAtStart(struct node *startArray, int newNumber)
+node *insertAtStart(node *startArray, int newNumber)
 {
     // usando malloc
 
-    struct node *newNode = (struct node *)malloc(sizeof(struct node));
+    node *newNode = (node *)malloc(sizeof(node));
 
     newNode->info = newNumber;
     newNode->nextNode = startArray;
@@ -19,10 +26,10 @@ struct node *insertAtStart(struct node *startArray, int newNumber)
     return newNode;
 };
 
-struct node *insertAtEnd(struct node *startArray, int newNumber)
+node *insertAtEnd(node *startArray, int newNumber)
 {
-    struct node *currentNode = startArray;
-    struct node *newNode = (struct node *)malloc(sizeof(struct node));
+    node *currentNode = startArray;
+    node *newNode = (node *)malloc(sizeof(node));
 
     // se a lista não estiver vazia
     if (currentNode != NULL)
@@ -55,9 +62,9 @@ struct node *insertAtEnd(struct node *startArray, int newNumber)
     return startArray;
 }
 
-void printArray(struct node *startArray)
+void printArray(node *startArray)
 {
-    struct node *currentNode = startArray;
+    node *currentNode = startArray;
 
     printf("======== Conteúdo da lista ========\n");
     while (currentNode != NULL)
@@ -72,7 +79,7 @@ void printArray(struct node *startArray)
 int main()
 {
 
-    struct node *firstNode = NULL;
+    node *firstNode = NULL;
 
     firstNode = insertAtStart(firstNode, 13);
     firstNode = insertAtStart(firstNode, 14);
