@@ -76,6 +76,57 @@ void printArray(node *startArray)
     printf("NULL\n");
 }
 
+node *search(node *startArray, int elementInfo)
+{
+    node *currentNode = startArray;
+
+    while (currentNode != NULL)
+    {
+        if (currentNode->info == elementInfo)
+        {
+            return currentNode;
+        }
+        else
+        {
+            currentNode = currentNode->nextNode;
+        }
+    }
+
+    return NULL;
+}
+
+node *removeElement(node *startArray, int elementInfo)
+{
+
+    node *previousNode = NULL;
+    node *currentNode = startArray;
+
+    while (currentNode != NULL && currentNode->info != elementInfo)
+    {
+        previousNode = currentNode;
+        currentNode = currentNode->nextNode;
+    }
+
+    if (currentNode == NULL)
+    {
+        // chegou ao final
+        return startArray;
+    }
+    //
+    if (previousNode == NULL)
+    {
+        // primeiro da lista deu match
+        startArray = currentNode->nextNode;
+    }
+    else
+    {
+        previousNode->nextNode = currentNode->nextNode;
+    }
+
+    free(currentNode);
+    return startArray;
+}
+
 int main()
 {
 
@@ -84,7 +135,10 @@ int main()
     firstNode = insertAtStart(firstNode, 13);
     firstNode = insertAtStart(firstNode, 14);
     firstNode = insertAtEnd(firstNode, 15);
+    firstNode = insertAtEnd(firstNode, 15);
     firstNode = insertAtEnd(firstNode, 16);
+    printArray(firstNode);
+    removeElement(firstNode, 15);
     printArray(firstNode);
 
     return 0;
